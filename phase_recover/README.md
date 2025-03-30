@@ -1,1 +1,3 @@
+运行AS_recover.m文件即可
 
+缺少的newpattern32.mat文件可以在releases中获取
