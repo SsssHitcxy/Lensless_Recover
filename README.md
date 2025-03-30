@@ -7,4 +7,5 @@ Abstract: Lensless imaging is a popular research field for the advantages of sma
 
 运行AS_recover.m文件,恢复样品的强度和相位信息
 
-by HITsz ,School of Computer Science and Technology 光学成像组
+by HITsz ,School of Computer Science and Technology 光学成像组 请勿用于商业用途
+代码仅供参考，如若使用到我们的代码，请引用我们的论文，谢谢
