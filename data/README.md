@@ -1,3 +1,3 @@
 在这个文件夹中放置169pattern以及采集到的样品经过衍射传播后强度信息
 
-数据获取：releases中可以获取USAF板衍射后图像数据
+数据获取：releases中data.zip包含USAF板衍射后图像数据
